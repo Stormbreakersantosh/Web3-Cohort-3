@@ -7,6 +7,6 @@ This repository is your go-to resource for:
 ✅ Assignment of Cohort 3.0 with solutions with in-depth commentary
 Eager to dive into the code? Here's how you can get started:
 
-🔥 Clone this Repository and Get Coding! 💫
+##🔥 Clone this Repository and Get Coding! 💫
 Simply run the following commands in your terminal to clone the repository and start building locally:
-https://github.com/irohandev/Web3-Cohort-3.0.git
+```https://github.com/irohandev/Web3-Cohort-3.0.git```
